@@ -1,7 +1,11 @@
 {
-  "name": "vue-notification",
+  "name": "@blackbp/vue-notification",
   "version": "0.1.0",
-  "private": true,
+  "author": "BlackBP <blackbp9@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
